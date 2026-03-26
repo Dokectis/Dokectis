@@ -20,7 +20,7 @@ Beyond classical data, I am a **Qiskit Advocate** and **IBM Quantum Enthusiast**
 * **BI:** Power BI, Qlik Sense, DAX.
 
 ### 📜 Certifications & Education
-* **Databricks Certified Data Engineer Associate** (Renewed 2024)
+* **Databricks Certified Data Engineer Associate** (Renewed 2026)
 * **AWS Cloud Essentials** (2024)
 * **Microsoft Fabric & Azure Analytics Training** (2024)
 * **Bachelor of Systems Engineering** - Universidad Cooperativa de Colombia
