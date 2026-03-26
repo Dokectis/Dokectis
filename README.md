@@ -1,7 +1,7 @@
 # Hi there, I'm Carlos Araque L. 👋 
 ### Senior Data Engineer | Databricks Certified | Qiskit Advocate
 
-I am a Senior Data Engineer with over 10 years of experience building enterprise-scale data platforms across Australia and internationally. I specialize in modern data stack architectures, turning complex "data swamps" into high-performance Lakehouses.
+I am a Senior Data Engineer with over 8 years of experience building enterprise-scale data platforms across Australia and internationally. I specialize in modern data stack architectures, turning complex "data swamps" into high-performance Lakehouses.
 
 ---
 
